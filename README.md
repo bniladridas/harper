@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/harper/main/.github/assets/thumbnail.png" alt="harper" width="100%">
+</p>
+
 ## Harper — Secure Configuration & Operation Guide
 
 Harper is an AI agent that provides a unified interface to multiple AI providers (OpenAI, Sambanova, Gemini), with persistent chat sessions, command execution, MCP support, and SQLite-backed storage.
