@@ -16,7 +16,7 @@ limitations under the License.
 
 # Security Policy
 
-[![Security: Responsible Disclosure](https://img.shields.io/badge/security-responsible%20disclosure-blue)](https://github.com/harpertoken/harper/security/policy)
+[![Security: Responsible Disclosure](https://img.shields.io/badge/security-responsible%20disclosure-blue)](https://github.com/coccinella-labs/harper-notes/security/policy)
 
 Harper takes security seriously. We appreciate your help in keeping Harper and its users safe by following this security policy.
 
@@ -141,7 +141,7 @@ Harper uses multiple automated security tools:
 ### Official Security Advisories
 
 Security advisories will be published at:
-- [GitHub Security Advisories](https://github.com/harpertoken/harper/security/advisories)
+- [GitHub Security Advisories](https://github.com/coccinella-labs/harper-notes/security/advisories)
 - [Harper Changelog](CHANGELOG.md)
 - Official communication channels
 
@@ -150,8 +150,8 @@ Security advisories will be published at:
 For security-related questions or concerns:
 
 - **Security Issues**: harpertoken@icloud.com
-- **General Support**: [GitHub Issues](https://github.com/harpertoken/harper/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/harpertoken/harper/discussions)
+- **General Support**: [GitHub Issues](https://github.com/coccinella-labs/harper-notes/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/coccinella-labs/harper-notes/discussions)
 
 ## Acknowledgments
 
