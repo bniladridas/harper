@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/harper/main/.github/assets/thumbnail.png" alt="harper" width="100%">
+  <img src="https://raw.githubusercontent.com/coccinella-labs/harper-notes/main/.github/assets/thumbnail.png" alt="harper-notes" width="100%">
 </p>
 
 ## Harper — Secure Configuration & Operation Guide
@@ -158,3 +158,4 @@ Uses GitHub Actions minutes. Private repos require GitHub Code Security license.
 - **Third-party tools**: Supported via SARIF upload
 
 For setup details, see [Configuring code scanning](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning).
+
