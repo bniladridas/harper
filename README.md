@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/harper-notes/main/.github/assets/thumbnail.png" alt="harper-notes" width="100%">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/coccinella-labs/harper-notes/main/.github/assets/thumbnail.png" alt="harper-notes" width="100%">
 </p>
 
