@@ -2,8 +2,8 @@
 
 ## Active Maintainers
 
-- @harpertoken
+- @bniladridas
 
 ## Emeritus Maintainers
 
-- @bniladridas
+- @harpertoken
