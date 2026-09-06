@@ -126,8 +126,8 @@ If you experience or witness unacceptable behavior:
 
 ### Reporting Methods
 
-- **Email**: harpertoken@icloud.com
-- **GitHub Issue**: [File a private report](https://github.com/harpertoken/harper/security/advisories/new)
+- **Email**: coccinella.labs@icloud.com
+- **GitHub Issue**: [File a private report](https://github.com/coccinella-labs/harper/security/advisories/new)
 - **Direct Message**: Contact maintainers through available channels
 
 ### What to Include
@@ -217,9 +217,9 @@ This Code of Conduct does not apply to:
 
 ### Primary Contacts
 
-- **Email**: harpertoken@icloud.com
-- **GitHub Issues**: [Report conduct issues](https://github.com/harpertoken/harper/issues)
-- **Security Advisories**: [Private security reports](https://github.com/harpertoken/harper/security/advisories)
+- **Email**: coccinella.labs@icloud.com
+- **GitHub Issues**: [Report conduct issues](https://github.com/coccinella-labs/harper/issues)
+- **Security Advisories**: [Private security reports](https://github.com/coccinella-labs/harper/security/advisories)
 
 ### Response Times
 
