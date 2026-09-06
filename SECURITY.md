@@ -52,7 +52,7 @@ We actively maintain security updates for the following versions:
 ### How to Report
 
 Please report security vulnerabilities by emailing:
-- **Email**: harpertoken@icloud.com
+- **Email**: coccinella.labs@icloud.com
 - **Subject**: `[SECURITY] Harper Vulnerability Report`
 
 ### What to Include
@@ -149,7 +149,7 @@ Security advisories will be published at:
 
 For security-related questions or concerns:
 
-- **Security Issues**: harpertoken@icloud.com
+- **Security Issues**: coccinella.labs@icloud.com
 - **General Support**: [GitHub Issues](https://github.com/coccinella-labs/harper-notes/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/coccinella-labs/harper-notes/discussions)
 
