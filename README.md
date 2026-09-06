@@ -101,8 +101,8 @@ UI customization is purely cosmetic and does not affect security behavior.
 ### Local Setup
 
 ```bash
-git clone https://github.com/harpertoken/harper.git
-cd harper
+git clone https://github.com/coccinella-labs/harper-notes.git
+cd harper-notes
 
 cp config/env.example .env
 # add API keys locally
